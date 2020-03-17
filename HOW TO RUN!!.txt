@@ -1,0 +1,14 @@
+1) Run server.js
+
+2) Open 2 tabs using connect4.html
+
+3) Click play on both one by one
+
+4) The player who clicks play second time (joins second) takes the first 
+turn
+
+5) Input column number to place piece in and press update
+
+6) similarly input column number and press update for other player
+
+!!! Enter col first then update!!!
