@@ -1,2 +1,2 @@
 # Connect4-
-Please consult readme file first!
+Please consult readme file first!   (HOW TO RUN!!.txt)
